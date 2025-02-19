@@ -4,4 +4,5 @@ Checklist of books that I am currently referirng or have referred to before (rea
 ## Current Read Target Checklist 
 - [ ] Deep Learning by Ian Goodfellow
 - [ ] Programming massively parallel processes
+- [ ] Understanding Deep Learning
 - [ ] Neural Machine Translation
